@@ -1,0 +1,82 @@
+#cabeza{
+	background-color: #F27C09; 
+}
+a.nav-link{
+	color: #FFFFFF;
+}
+#icon:hover{
+	color: #F7D80B;
+	font-style: unset;
+}
+
+button {
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+.navbar-toggler-icon{
+	background-color: #FFFFFF;
+}
+.navbar-toggler:hover{
+	background-color: #FFFFFF;
+	border-color: #FFFFFF;
+}
+.tt{
+	font-family: 'Nanum Myeongjo', serif;
+	color: red;
+	font-size: 90px;
+}
+h2{
+	text-align: center;
+}
+h3{
+	font-family: 'Nanum Myeongjo', serif;
+}
+.ti{
+	margin-bottom: 50px;
+}
+.te{
+	font-family: 'Nanum Myeongjo', serif;
+	color: red;
+	font-size: 40px;
+}
+/*------------------Estilos para la promocion------------------*/
+.promocion{
+	padding: 60px 50px;
+	background-size: cover;
+	font-family: 'Pacifico';
+	color: white;
+	background-attachment: fixed;
+	background-position: center;
+}
+.promocion p {
+	font-size: 1.2em;
+	font-family: 'Nanum Myeongjo', serif;
+}
+.btn2{
+	color: black;
+	border-radius: 30px;
+	padding: 10px 30px;
+	background-color: transparent;
+	cursor: pointer;
+	border: 2px solid red;
+	font-size: 1.3em;
+	transition: .5s;
+	font-family: 'Nanum Myeongjo', serif;
+}
+.btn2:hover{
+	background: red;
+	color: white;
+	margin-top: -10px;
+	margin-bottom: 10px;
+	transition: .5s;
+}
+.imagen{
+	margin-top: 10px;
+	margin-bottom: 10px;
+	filter: drop-shadow(3px 5px 5px #A4FDF6);
+	transition: 1s;
+}
+.imagen:hover{
+	transform: scale(1.1);
+	transition: 1s;
+}	
